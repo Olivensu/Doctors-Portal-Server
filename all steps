@@ -1,0 +1,5 @@
+1. npm init -y
+2. npm i express cors dotenv mongodb jsonwebtoken
+3. create index.js
+4. go to express.js website and copy, hello world example and copy to index.js
+5. require dotenv then create .env and .gitignore then write ignores file
